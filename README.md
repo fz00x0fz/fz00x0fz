@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/fz00x0zf" target="blank"><img src="https://img.shields.io/twitter/follow/fz00x0zf?logo=twitter&style=for-the-badge" alt="fz00x0zf" /></a> </p>
 
-- 🔭 I’m currently working on [readify](https://readify.app/)
+- 🔭 I’m currently working on [readify](https://readify.app/){:target="_blank"}
 
 - 🌱 I’m currently learning **Next.js,Tailwind CSS,TypeScript,shadcn/ui**
 
-- 👯 I’m looking to collaborate on [knowmindwise](https://knowmindwise.com/)
+- 👯 I’m looking to collaborate on [knowmindwise](https://knowmindwise.com/){:target="_blank"}
 
-- 🤝 I’m looking for help with [productseek](https://www.productseek.net/)
+- 🤝 I’m looking for help with [productseek](https://www.productseek.net/){:target="_blank"}
 
-- 📝 I regularly write articles on [https://bento.me/knowise](https://bento.me/knowise)
+- 📝 I regularly write articles on [https://bento.me/knowise](https://bento.me/knowise){:target="_blank"}
 
 - 💬 Ask me about **Go,Java,Javascript,Python,C/C++**
 
